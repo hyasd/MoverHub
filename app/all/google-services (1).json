@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665725799031",
+    "project_id": "movershubuserapp",
+    "storage_bucket": "movershubuserapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665725799031:android:3392b11e3cb2e3c72c9472",
+        "android_client_info": {
+          "package_name": "com.example.movershubuserapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665725799031-tge9tnm84uen9bjcssi42nibotcfulsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Xu-8WMt_5phg8MnXBmpqCELWckFgbzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665725799031-tge9tnm84uen9bjcssi42nibotcfulsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

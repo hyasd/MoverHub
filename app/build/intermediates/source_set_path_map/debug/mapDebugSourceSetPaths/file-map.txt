@@ -1,0 +1,56 @@
+com.example.movershubuserapp-appcompat-resources-1.6.1-0 C:\Users\HP\.gradle\caches\transforms-4\0005e54fc7b460c58b38864a462895d6\transformed\appcompat-resources-1.6.1\res
+com.example.movershubuserapp-lifecycle-runtime-ktx-2.6.1-1 C:\Users\HP\.gradle\caches\transforms-4\05e4bed43ef71c0ef5390430d60668ea\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.movershubuserapp-lifecycle-viewmodel-ktx-2.6.1-2 C:\Users\HP\.gradle\caches\transforms-4\069377606e2d9f4223c8197c46936366\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.movershubuserapp-gridlayout-1.1.0-beta01-3 C:\Users\HP\.gradle\caches\transforms-4\090b4fa23a05d634c59491576950531f\transformed\gridlayout-1.1.0-beta01\res
+com.example.movershubuserapp-viewpager2-1.0.0-4 C:\Users\HP\.gradle\caches\transforms-4\0d0c36b807ab08e653e0effa60b9dc7d\transformed\viewpager2-1.0.0\res
+com.example.movershubuserapp-navigation-runtime-ktx-2.6.0-5 C:\Users\HP\.gradle\caches\transforms-4\1271b40bb61893d364640689c510771a\transformed\navigation-runtime-ktx-2.6.0\res
+com.example.movershubuserapp-play-services-base-18.1.0-6 C:\Users\HP\.gradle\caches\transforms-4\217247db764fcc7706f50c8a2d09e337\transformed\play-services-base-18.1.0\res
+com.example.movershubuserapp-navigation-fragment-2.6.0-7 C:\Users\HP\.gradle\caches\transforms-4\263e53fa9de47d121fcd3c31b0241f74\transformed\navigation-fragment-2.6.0\res
+com.example.movershubuserapp-transition-1.4.1-8 C:\Users\HP\.gradle\caches\transforms-4\376c46bc549a31466044955e2a4d0508\transformed\transition-1.4.1\res
+com.example.movershubuserapp-core-runtime-2.2.0-9 C:\Users\HP\.gradle\caches\transforms-4\459485adfb4bf87cee78f26fff351c6b\transformed\core-runtime-2.2.0\res
+com.example.movershubuserapp-lifecycle-viewmodel-savedstate-2.6.1-10 C:\Users\HP\.gradle\caches\transforms-4\4febd80ff64d33871d364ef81a75a1b9\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.movershubuserapp-appcompat-1.6.1-11 C:\Users\HP\.gradle\caches\transforms-4\53ef6d15074e44b6404479961f71ebbe\transformed\appcompat-1.6.1\res
+com.example.movershubuserapp-navigation-ui-2.6.0-12 C:\Users\HP\.gradle\caches\transforms-4\56326a15aa778a0d91f708b5bb6198f9\transformed\navigation-ui-2.6.0\res
+com.example.movershubuserapp-lifecycle-viewmodel-2.6.1-13 C:\Users\HP\.gradle\caches\transforms-4\5f2d13df16abefdcb82ed869eca0301a\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.movershubuserapp-profileinstaller-1.3.0-14 C:\Users\HP\.gradle\caches\transforms-4\6289ca9f0ab53054d2432e0bc1e83ada\transformed\profileinstaller-1.3.0\res
+com.example.movershubuserapp-navigation-fragment-ktx-2.6.0-15 C:\Users\HP\.gradle\caches\transforms-4\674e04b79db1676edac4f78351aa04e4\transformed\navigation-fragment-ktx-2.6.0\res
+com.example.movershubuserapp-core-ktx-1.10.1-16 C:\Users\HP\.gradle\caches\transforms-4\71faa02736783b2d0e36700f15e8d174\transformed\core-ktx-1.10.1\res
+com.example.movershubuserapp-fragment-ktx-1.6.0-17 C:\Users\HP\.gradle\caches\transforms-4\74cdb371b28ec50a24fbb094b2cb6028\transformed\fragment-ktx-1.6.0\res
+com.example.movershubuserapp-core-1.10.1-18 C:\Users\HP\.gradle\caches\transforms-4\760c2307b80d87b063a5b0d0bd60abe5\transformed\core-1.10.1\res
+com.example.movershubuserapp-lifecycle-livedata-core-ktx-2.6.1-19 C:\Users\HP\.gradle\caches\transforms-4\7e4b54bb92ad1bd3b12fc1e720f6b5e8\transformed\lifecycle-livedata-core-ktx-2.6.1\res
+com.example.movershubuserapp-coordinatorlayout-1.1.0-20 C:\Users\HP\.gradle\caches\transforms-4\9550b35f43cce3f8f9b598c9385c522a\transformed\coordinatorlayout-1.1.0\res
+com.example.movershubuserapp-savedstate-ktx-1.2.1-21 C:\Users\HP\.gradle\caches\transforms-4\9819ea09f7cf3c52efeb2c6e67aad44f\transformed\savedstate-ktx-1.2.1\res
+com.example.movershubuserapp-slidingpanelayout-1.2.0-22 C:\Users\HP\.gradle\caches\transforms-4\9bbb79626847b683ea3f671c65f600c5\transformed\slidingpanelayout-1.2.0\res
+com.example.movershubuserapp-window-1.0.0-23 C:\Users\HP\.gradle\caches\transforms-4\9ce8560028ee6d9b22e180805d9c4723\transformed\window-1.0.0\res
+com.example.movershubuserapp-navigation-common-ktx-2.6.0-24 C:\Users\HP\.gradle\caches\transforms-4\9d7f91cb68bfa37255bc4f6b7ed4e734\transformed\navigation-common-ktx-2.6.0\res
+com.example.movershubuserapp-recyclerview-1.1.0-25 C:\Users\HP\.gradle\caches\transforms-4\9e5887fc6b371c011d21b795a38badb7\transformed\recyclerview-1.1.0\res
+com.example.movershubuserapp-play-services-basement-18.1.0-26 C:\Users\HP\.gradle\caches\transforms-4\a4c4a55c5a2389167ff72065ebb5f6f2\transformed\play-services-basement-18.1.0\res
+com.example.movershubuserapp-drawerlayout-1.1.1-27 C:\Users\HP\.gradle\caches\transforms-4\a792deb93d6819cce79e41f537cde402\transformed\drawerlayout-1.1.1\res
+com.example.movershubuserapp-lifecycle-livedata-ktx-2.6.1-28 C:\Users\HP\.gradle\caches\transforms-4\aa6a37dd5d37b2c013d0a6c53de86da2\transformed\lifecycle-livedata-ktx-2.6.1\res
+com.example.movershubuserapp-material-1.9.0-29 C:\Users\HP\.gradle\caches\transforms-4\af1f23d5d4f951432b2addd249305523\transformed\material-1.9.0\res
+com.example.movershubuserapp-savedstate-1.2.1-30 C:\Users\HP\.gradle\caches\transforms-4\b5a4baba1f3aee4cfcb291e03518361a\transformed\savedstate-1.2.1\res
+com.example.movershubuserapp-lifecycle-livedata-core-2.6.1-31 C:\Users\HP\.gradle\caches\transforms-4\babe10454f43b67dfb1220f35d9df09d\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.movershubuserapp-lifecycle-livedata-2.6.1-32 C:\Users\HP\.gradle\caches\transforms-4\bea05fd867a23732ad947f84c2fe60c6\transformed\lifecycle-livedata-2.6.1\res
+com.example.movershubuserapp-startup-runtime-1.1.1-33 C:\Users\HP\.gradle\caches\transforms-4\c4a2580cb5f38a39d724357ae1aced2c\transformed\startup-runtime-1.1.1\res
+com.example.movershubuserapp-annotation-experimental-1.3.0-34 C:\Users\HP\.gradle\caches\transforms-4\c7b101384678824223988bd41a7aedc6\transformed\annotation-experimental-1.3.0\res
+com.example.movershubuserapp-firebase-common-20.3.2-35 C:\Users\HP\.gradle\caches\transforms-4\c877847d3ee16247ab30a15fd8f2db15\transformed\firebase-common-20.3.2\res
+com.example.movershubuserapp-constraintlayout-2.1.4-36 C:\Users\HP\.gradle\caches\transforms-4\cabf9075e8f61d1705e9efe704ed1b10\transformed\constraintlayout-2.1.4\res
+com.example.movershubuserapp-navigation-common-2.6.0-37 C:\Users\HP\.gradle\caches\transforms-4\cc2d88136aaeaa28b93a45b4cb4a6802\transformed\navigation-common-2.6.0\res
+com.example.movershubuserapp-lifecycle-process-2.6.1-38 C:\Users\HP\.gradle\caches\transforms-4\ce69f7610d25f7a2911e3a4c264b336b\transformed\lifecycle-process-2.6.1\res
+com.example.movershubuserapp-lifecycle-runtime-2.6.1-39 C:\Users\HP\.gradle\caches\transforms-4\d19fc1e598f0872e0458e4bb6b4d84e3\transformed\lifecycle-runtime-2.6.1\res
+com.example.movershubuserapp-emoji2-1.2.0-40 C:\Users\HP\.gradle\caches\transforms-4\d4bf0bd2be522ce3522b08c4a51bfbd0\transformed\emoji2-1.2.0\res
+com.example.movershubuserapp-navigation-runtime-2.6.0-41 C:\Users\HP\.gradle\caches\transforms-4\d8d59d31bd7d162770b373b7ec77124f\transformed\navigation-runtime-2.6.0\res
+com.example.movershubuserapp-media-1.0.0-42 C:\Users\HP\.gradle\caches\transforms-4\dd8c4f194eddcaa9e98f3d00a63551c5\transformed\media-1.0.0\res
+com.example.movershubuserapp-activity-ktx-1.6.1-43 C:\Users\HP\.gradle\caches\transforms-4\ddad4824ff87070764c689d85d094a5f\transformed\activity-ktx-1.6.1\res
+com.example.movershubuserapp-cardview-1.0.0-44 C:\Users\HP\.gradle\caches\transforms-4\e0baa8fab3885136a49949e5736a002b\transformed\cardview-1.0.0\res
+com.example.movershubuserapp-fragment-1.6.0-45 C:\Users\HP\.gradle\caches\transforms-4\e8e8f1a041aab9b496e9540fd859c7a1\transformed\fragment-1.6.0\res
+com.example.movershubuserapp-emoji2-views-helper-1.2.0-46 C:\Users\HP\.gradle\caches\transforms-4\ed0ee34d4c59ee0abed6037a7ec04495\transformed\emoji2-views-helper-1.2.0\res
+com.example.movershubuserapp-navigation-ui-ktx-2.6.0-47 C:\Users\HP\.gradle\caches\transforms-4\f145e7c70a44967f96bf9cdde4c79200\transformed\navigation-ui-ktx-2.6.0\res
+com.example.movershubuserapp-activity-1.6.1-48 C:\Users\HP\.gradle\caches\transforms-4\f8069d15218f9a2cb761f0829b5f2e98\transformed\activity-1.6.1\res
+com.example.movershubuserapp-pngs-49 E:\New folder\MOVERSHUBuserapp2\app\build\generated\res\pngs\debug
+com.example.movershubuserapp-resValues-50 E:\New folder\MOVERSHUBuserapp2\app\build\generated\res\resValues\debug
+com.example.movershubuserapp-packageDebugResources-51 E:\New folder\MOVERSHUBuserapp2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.movershubuserapp-packageDebugResources-52 E:\New folder\MOVERSHUBuserapp2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.movershubuserapp-debug-53 E:\New folder\MOVERSHUBuserapp2\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.movershubuserapp-debug-54 E:\New folder\MOVERSHUBuserapp2\app\src\debug\res
+com.example.movershubuserapp-main-55 E:\New folder\MOVERSHUBuserapp2\app\src\main\res
